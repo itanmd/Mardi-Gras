@@ -1,4 +1,4 @@
-Mardi Gras Festival
+
 New website desgin for the Popular Mardi Gras festival.
 
 Tech Stack
