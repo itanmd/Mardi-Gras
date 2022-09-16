@@ -1,1 +1,13 @@
-New website desgin for the Popular Mardi Gras festival using HTML, CSS and js. 
+Mardi Gras Festival
+New website desgin for the Popular Mardi Gras festival.
+
+Tech Stack
+HTML
+CSS
+Bootstrap
+JavaScript
+
+
+
+
+
